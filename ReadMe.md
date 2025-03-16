@@ -1,6 +1,6 @@
-# Java Blockchain Application using Threading
+# Java Blockchain Application
 
-#### This project is a blockchain-based application developed as part of a university exercise. It simulates a simple blockchain system where blocks represent products. The program allows to interact with the blockchain via RESTful endpoints to add, search, and retrieve blocks and get statistics.
+#### This project is a blockchain-based application developed as part of a university exercise. It simulates a simple blockchain system where blocks represent products. The program allows to interact with the blockchain via RESTful endpoints to add, search, retrieve blocks and get statistics.
 
 ---
 
